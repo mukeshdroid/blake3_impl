@@ -1,5 +1,6 @@
 > ⚠️ **Warning:** Do not use this library for anything serious. It was made for me to experiemnt with blake3 and learn rust at the same time.
 
-
 The default input hex string for tracing is:
+```
 057b3658c110651943dd1e613a9c6952a0caabaf7f3b9d5b0eff9db53655eae9caa50cbf1f09caf4cfd5fdcee47845a0df80af4d02c745ebd546bf656744479ca4c5440ee0b74600d71b2d937734617b653937b7e7ab9aafcc8e331956b6f38b484fe87cd5328dc4001c00756d0ad3052b0feecd863f8f1198e776a3e0523ea65d4a8fe211a54507b542249508a088fc1a443a4911e81e87410e2dbb6fbd20d090a4958bb7c0315b9fc4c84d1d72a7da643773ff60f5c4a28e773a1658dcd6ed
+```
